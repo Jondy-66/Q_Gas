@@ -6,4 +6,4 @@ Reliazdo por:
 Jonathan Díaz
 Glenda Jimenez
 Kevin Vargas
-Noveno "B"Sistemas de Inforamción
+[Noveno "B"Sistemas de Inforamción]
