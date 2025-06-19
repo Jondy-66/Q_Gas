@@ -23,6 +23,6 @@ export const ZONE_TYPES = [
   { value: "1", label: "Comercial" },
 ];
 
-export const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || "AIzaSyAjDtWxgVHhpTaBhzn-1qmLaQf7i9yWbSA";
+export const GOOGLE_MAPS_API_KEY = process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY || "";
 
 export const FLASK_API_URL = "https://gas-silencioso-api.onrender.com/predecir";
