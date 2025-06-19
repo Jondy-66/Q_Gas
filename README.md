@@ -1,6 +1,9 @@
-# Firebase Studio
+# Q-GAS
 
-This is a NextJS starter in Firebase Studio.
+Aplicativo Web para realizar predicciones de entrega de cilindros de gas el ODS aplicado para la solución y creacion de este proyecto es el ODS 11.
 
-To get started, take a look at src/app/page.tsx.
-"# Q_Gas" 
+Reliazdo por: 
+Jonathan Díaz
+Glenda Jimenez
+Kevin Vargas
+[Noveno "B"Sistemas de Inforamción]
